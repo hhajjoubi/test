@@ -1,0 +1,12 @@
+ Le volume dans le lecteur C s'appelle OS
+ Le num‚ro de s‚rie du volume est 52EC-A3D9
+
+ R‚pertoire de C:\test-git\java.project
+
+18/12/2017  12:24    <REP>          .
+18/12/2017  12:24    <REP>          ..
+15/12/2017  12:22               413 hello.class
+18/12/2017  12:21               137 hello.java
+18/12/2017  12:24                 0 test12.txt
+               3 fichier(s)              550 octets
+               2 R‚p(s)  255ÿ945ÿ768ÿ960 octets libres
